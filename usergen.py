@@ -1,7 +1,7 @@
 import json
 import urllib2
 
-gen_url = 'https://randomuser.me/api/?nat=us&results=50'
+gen_url = 'https://randomuser.me/api/?nat=us&results=25'
 
 f = urllib2.urlopen(gen_url)
 json_string = f.read()
