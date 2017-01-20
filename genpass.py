@@ -1,6 +1,6 @@
 import random
 
-alphabet = "abcdefghijklmnopqrstuvwxyz"
+alphabet = "abcdefghijklmnopqrstuvwxyz!@#$%^&*()_+"
 pw_length = 13
 mypw = ""
 
